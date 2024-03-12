@@ -1,0 +1,15 @@
+.banner{
+    display: flexbox;
+    text-align: center;
+    font-family: sans-serif;
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+    font-size: x-large;
+}
+.lineTow{
+   
+    font-size: 1.125rem;
+    letter-spacing: normal;
+    line-height: 1.5;
+}

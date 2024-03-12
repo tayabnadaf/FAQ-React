@@ -1,0 +1,12 @@
+.chips{
+    border: 1px solid grey;
+    border-radius: 20px;
+    position: sticky;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+    width:fit-content;
+    padding: 5px;
+
+}

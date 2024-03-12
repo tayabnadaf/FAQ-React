@@ -1,0 +1,51 @@
+.header {
+  display: flex;
+  z-index: 999;
+  border-bottom: 1px solid var(--gray-3);
+  background-color: white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 15px;
+}
+.header > * {
+  margin-right: 10px; /* Add a margin to create space between each element */
+}
+:root {
+  --gray-3: #eee;
+}
+.header__img {
+  align-items: center;
+  display: inline-block;
+  max-width: 100%;
+  vertical-align: middle;
+  height: 40px;
+  aspect-ratio: auto 190 / 40;
+  width: 190px;
+  border: 0;
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  margin-right: 10px;
+}
+.header__input {
+  width: 100%;
+}
+.header__login{
+    color: black;
+    border: 1px;
+    border-radius: 5px;
+    padding: 10px 24px;
+}
+.header__creatAccount{
+  padding:9px 15px ;
+  color: white;
+  width: 500px;
+  border: 1px;
+  border-radius: 5px;
+  background-color: #2ECC7E;
+}
+button {
+  font-family: system-ui, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+}
