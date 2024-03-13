@@ -6,7 +6,7 @@ import Chips from './Chips'
 function Faq() {
   return (
     <div>
-      <Header />
+      {/* <Header /> */}
       <Banner/>
       <hr />
       <Chips/>
