@@ -10,6 +10,7 @@ function Faq() {
       <Banner/>
       <hr />
       <Chips/>
+      
     </div>
   );
 }
