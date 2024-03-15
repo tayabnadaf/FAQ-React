@@ -24,7 +24,7 @@ export const chipData = [
       qas: [
         {
           question: "How do I access the Webflow Library?",
-          answer: "You can check out the Untitled UI Webflow Library on our",
+          answer: "You can check out the Untitled UI Webflow Library on our. Try it for free and copy fully-responsive website components straight into your next Webflow project. Every component is built with 100% ",
         },
       ],
     }
